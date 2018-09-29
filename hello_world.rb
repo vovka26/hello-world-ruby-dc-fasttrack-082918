@@ -1,1 +1,6 @@
 puts "Hello World!"
+puts "Hey there"
+puts "My name is Vlad"
+puts "I am from DC"
+puts "How is it going?"
+puts "Hope you are enjoying this fasttrack so far"
